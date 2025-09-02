@@ -1,1 +1,85 @@
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REAL OR FACT?</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div class="hastii">
+    <img src="photo/annngle.jpg" alt="goood">
+    </div>
+    <nav id="pagecontainer">
+        <a href="#page">what is the fairy tale?</a>
+        <a href="#fairytale">Imaginary beings</a>
+        <a href="#wings">example of fairy tales</a>
+        <a href="#greenstyle"> types of fairy tales</a>
+    </nav>
+    <p class="tale">A fairy tale is a story, often intended for children, that features fanciful and wondrous characters such as elves, goblins, <a href="https://company.wizards.com/en">wizards</a>, and even, but not necessarily, fairies. The term “fairy” tale seems to refer more to the fantastic and magical setting or magical influences within a story, rather than the presence of the character of a fairy within that story. Fairy tales are often traditional; many were passed down from story-teller to story-teller before being recorded in books. </p>
+    <hr>
+       <table id="viva">
+    <caption class="pink">fairies history</caption>
+  <thead class="rii">
+    <tr>
+      <td class="gg">type of them</td>
+      <td class="can">centries</td>
+      <td class="coles">real or fact</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hio">many but most of them are: angle</td>
+      <td class="goo">18th and 19th</td>
+      <td class="hkj">for chlidren real.</td>
+    </tr>
+  </tbody>
+</table> 
+       <hr>
+     <nav class="pagee">
+   <mark> <a  id="kjj" href=https://www.historic-uk.com/CultureUK/The-Origins-of-Fairies/>all about fairies</a></mark>
+    </nav>
+    <hr>
+    <p id="page">
+Fairy tales are a type of folktale with several key characteristics: 
+Magical Elements:
+They contain magical events, enchantments, and supernatural elements that are central to the story. </p>
+    <hr>
+    <h1 id="color">short story about fairies:</h1>
+    <video class="gh" src="video/fairy story.mp4" controls  poster="photo/pari.jpg"></video>
+    <hr>
+    <p id="fairytale">Imaginary beings:
+These stories often include mythical or fanciful beings such as fairies, goblins, witches, talking animals, and giants. </p>
+      <hr>
+      <img  class="hass" src="photo/amgle like.jpg" alt="like">
+      <br><br>
+     <audio class="gte" src="audio/Alan-Menken-1.mp3" controls></audio>
+     <audio class="tee" src="audio/Alan-Menken-Main2.mp3" controls></audio>
+     <hr>
+    <p id="wings">Fairy tales, in the literary sense, are easy to find. Look at your bookshelf or your DVD collection.You may see titles likes these: Snow White/ Cinderella/ Rip Van Winkle <a href="./The Twelve Dancing Princesses.html"> The Twelve Dancing Princesses</a> /Rumpelstiltskin/Thumbelina</p>
+    <img  id="btu" src="photo/ppaary.webp" alt="pari2">
+    <p id="greenstyle">Fairy tales are important because they spark the imagination. They give us an outlet for experiencing things in our minds before we experience them in the real world. It is where the troubles of the real world can meet the supernatural and mix things up. In a fairy tale anything can happen and any kind of creature can exist, and when anything can happen, we can find solutions to things in our real lives. Through imagination, we learn about our world. We can explore outcomes and possibilities. </p>
+    <hr><hr>
+    <form action="method" id="vive">
+      <label for="fname">first name</label>
+      <input required id="fname" type="text">
+      <label for="lname">last name</label>
+      <input required id="lname" type="text">
+       <label for="range">score of my site :)</label>
+      <input  max="100"  min="0" type="range" id="renge">
+      <label for="gh"></label>
+      <select name="gh" id="gh">
+      <option selected value="">what is the fairy tale?</option>
+      <option  value="">Imaginary beings</option>
+      <option value="">example of fairy tales</option>
+      <option value="">types of fairy tales</option>
+        <input type="radio" id="male" name="man">
+      <label for="male">male</label>
+      <input type="radio" id="female" name="woman">
+      <label for="female">female</label>
+      </select>
+    </form>
+    <hr><hr>
+</body>
+
+</html>
