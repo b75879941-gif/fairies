@@ -1,0 +1,149 @@
+*{
+    background-color: rgb(4, 230, 72);
+    text-align: center;
+
+
+}
+    @font-face {
+        font-family: Beyond Wonderland;
+        src: url(fonts/BeyondWonderland.ttf);
+    }
+ body {
+            font-family: 'Beyond Wonderland', sans-serif;
+            font-weight: normal;
+            font-style: normal;
+        }
+    p{ 
+        text-align: center;
+        display:block;
+        font-size: 25px
+        
+    }    
+
+   .hastii{
+      text-align: center;
+      display:black;
+       margin:auto;
+       padding: auto;
+
+    }
+    #pagecontainer{  
+        display: block;
+        text-align: center;
+    }
+    a{  
+        display:inline-block;
+        font-size:20px ;
+       color: rgb(36, 2, 68);
+        text-decoration: none;
+        margin:20px ;
+        padding: top 8px;
+       
+    }
+    #page{    
+            color: rgb(245, 5, 53);
+
+    }
+    .tale{   color: rgb(252, 251, 250);
+    
+
+    }
+    #fairytale{   color: rgb(255, 0, 149);
+    }
+    #wings{  color: green; 
+    }
+    #greenstyle{  
+        color: blue;
+    }
+    img{   
+        height:550px;
+         width:1220px;   
+    }
+    .pagee{  
+        text-align: center;
+
+    }
+    .gh{   
+        height: 500px;
+        width: 500px;
+        padding-bottom:106px;
+        border: 10px solid green;
+        display: inline;
+        background-color: rgb(58, 146, 58);
+
+    }
+    #color{  
+        text-align: left;
+        color: blue; 
+        font-weight: normal;
+        
+    }
+    .gte{ 
+        
+        text-align: left;
+    }
+    .tee{   
+        text-align: right;
+    }
+    #viva{   
+        display: inline-block;
+         text-align: center; 
+         background-color:  rgb(129, 4, 100);
+         border: 3.5px solid rgb(129, 4, 100);
+        color: rgb(32, 1, 27);
+        font-weight: none;
+    }
+
+    #vive{
+        margin: 30px;
+    }
+    #btu{  height: 500px;   
+        width: 500px;
+       
+    }
+    .hass{  
+        height: 500px;
+        width: 500px;
+        border-radius: 100%;
+    }
+    .pink{      
+           color: rgb(250, 9, 9);
+           font-size: 40px;
+           background-color: rgb(196, 196, 230);
+    }
+    .rii{  
+        color: rgb(1, 12, 1);
+        font-size: 30px;
+    }
+    .gg{   
+        background-color: rgb(240, 205, 10);
+        
+    }
+    .can{    
+        background-color: deeppink;
+        text-align: center;
+       
+    }
+    .coles{  
+        background-color: orangered;
+    
+    }
+    .hio{  
+        background-color:blue;
+         font-size: 30px;
+         color: white;   
+    }
+    .goo{   
+        background-color: purple;
+        font-size: 30px;
+        color: yellow;
+    }
+    .hkj{       
+        background-color: chartreuse;
+        font-size: 30px;
+        color: rgb(253, 75, 4);
+    }
+    #kjj{   
+        font-size: 20px;
+       display: inline;
+    }
